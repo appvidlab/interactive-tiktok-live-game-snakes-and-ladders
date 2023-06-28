@@ -2,6 +2,8 @@
 
 Snakes and Ladders - Interactive TikTok Live Game. Earn coins on your TikTok live stream with automation games!
 
+[<img src="https://img.youtube.com/vi/7bZ9pcZaqic/sddefault.jpg" width="100%">](https://www.youtube.com/watch?v=7bZ9pcZaqic "VIDEO")
+
 ## How To Start
 1. Start TikTok live from your phone (Make sure, choose mobile gaming as your live stream method) <img src="tiktoklive.jpg">
 2. Click Go LIVE button to start live stream
@@ -20,10 +22,6 @@ Snakes and Ladders - Interactive TikTok Live Game. Earn coins on your TikTok liv
 
 - [x] Real time  TikTok live events: `Follow, Comment, Share, Like and Gift`
 - [x] Multiple Language
-
-[![VIDEO]
-(https://img.youtube.com/vi/7bZ9pcZaqic/sddefault.jpg)]
-(https://www.youtube.com/watch?v=7bZ9pcZaqic "VIDEO")
 
 [DOWNLOAD FOR FREE](https://play.google.com/store/apps/details?id=snakes.and.ladders.appvidlab)
 
